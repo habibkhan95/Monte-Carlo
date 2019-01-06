@@ -14,7 +14,7 @@ In short - the Monte Carlo simulation uses random variables to simulate models. 
 Download the **SNP500-MonteCarlo.ipynb** file or click [here](https://raw.githubusercontent.com/habibkhan95/Monte-Carlo/master/SNP500-MonteCarlo.ipynb).
 If you haven't installed Jupyter then upload the file into Jupyter on your browser. Whereas, if you have, then enter ```$ jupyter notebook```. This should now load your environment using a docker container. Now you will be able to select the file (SNP500-MonteCarlo.ipynb) where you have downloaded it. 
 
-This example uses a few variables which need to be understood - 
+This example uses a few variables - 
 
 | Variable | Description |
 | --- | --- |
