@@ -16,4 +16,10 @@ Download the **SNP500-MonteCarlo.ipynb** file or click [here](https://raw.github
 This example uses a few variables which need to be understood - 
 |     Variable     |         Description         |
 |------------------|-----------------------------|
-| investment_value | The initial investment      | 
+| investment_value | The initial investment      |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
