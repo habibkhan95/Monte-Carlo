@@ -11,4 +11,4 @@ In short - the Monte Carlo simulation uses random variables to simulate models. 
 4. ```$ pip install matplotlib```
 
 ## Getting started
-
+Download the **SNP500-MonteCarlo.ipynb** file or click here.
