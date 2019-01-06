@@ -14,12 +14,13 @@ In short - the Monte Carlo simulation uses random variables to simulate models. 
 Download the **SNP500-MonteCarlo.ipynb** file or click [here](https://raw.githubusercontent.com/habibkhan95/Monte-Carlo/master/SNP500-MonteCarlo.ipynb).
 
 This example uses a few variables which need to be understood - 
-|     Variable     |         Description         |
-|------------------|-----------------------------|
-| investment_value | The initial investment      |
 
-| Command | Description |
+| Variable | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `investment_value` | The initial investment. This then gets re-initiated after every year specified. |
+| `time_period` | Duration of the forecasted model |
+| `avg_return` | The average return which needs to be calculated for your chosen asset/index |
+| `volatility` | The estimated volatility for a given time period |
+| `eoy_investment_addition` | Amount to be added at the end of each year. This can be 0 |
+
 
